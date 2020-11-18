@@ -15,5 +15,7 @@ Notify team when org stream goes live.
 - [ ] Calendar
 - [ ] Stats
 - [ ] Stream
-  
+Due 12/15/20
+---
+High level UML Created 11/16/20
 ![alt text](https://lucid.app/publicSegments/view/0e0fce15-249d-414f-9ff1-de7f79be47bc/image.png)
